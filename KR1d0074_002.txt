@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記訓義擇言
-#+DATE: 2015-09-23 09:38:38
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:11:09.649511
+#+PROPERTY: ID KR1d0074
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1d0074_WYG_002-1a>¶
 欽定四庫全書¶
 　禮記訓義擇言卷二¶
@@ -560,4 +562,3 @@
 　(卒行之使人疑駭故惡之也方氏説哭者/呼滅子皋曰野哉孔子惡者以此恐未然)¶
 　按陳氏説善矣張子謂惡凶事亦或有之¶
 　禮記訓義擇言卷二¶
-
